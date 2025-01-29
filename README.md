@@ -6,7 +6,7 @@ This repository is currently a **draft** and is actively being developed. I am a
 
 ## Project Overview
 
-This repository contains code and data for analysing the environmental impact of homeworking. The analysis is based on a survey of employees' homeworking practices and energy consumption habits.
+This repository contains code and data for analysing the environmental impact of homeworking. The analysis is based on a simulation of a survey of employees' homeworking practices and energy consumption habits.
 
 ## Data
 
