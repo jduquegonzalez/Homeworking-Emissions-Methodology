@@ -73,4 +73,4 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 ## Acknowledgements
 
-This project is inspired by the work of [EcoAct](https://info.eco-act.com/en/homeworking-emissions-whitepaper-2020?_gl=1) and the [Greenhouse Gas Protocol](https://www.ghgprotocol.org/).
+This project is inspired by the work of [EcoAct](https://info.eco-act.com/en/homeworking-emissions-whitepaper-2020?_gl=1) and the [Greenhouse Gas Protocol](https://www.ghgprotocol.org/). The methodology is based on research by [Green Element](https://www.greenelement.co.uk/environmental-and-sustainability-ebooks/working-from-home-emissions/), where a comprehensive survey model for calculating emissions from working from home can be found.
